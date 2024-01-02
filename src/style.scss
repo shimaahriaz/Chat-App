@@ -17,7 +17,6 @@
 .formContainer {
   background-color: #a7bcff;
   height: 100vh;
-  margin: 0 auto;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -98,7 +97,7 @@
   .container {
     border: 1px solid white;
     border-radius: 10px;
-    width: 75%;
+    width: 65%;
     height: 80%;
     display: flex;
     overflow: hidden;
@@ -230,7 +229,7 @@
         padding: 10px;
         height: calc(100% - 160px);
         overflow: scroll;
-
+        
         .message {
           display: flex;
           gap: 20px;
