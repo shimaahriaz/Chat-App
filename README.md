@@ -1,5 +1,21 @@
-# Update
+# Chat App
 
-After the new update of React, you won't be able to use CRA. But you can easily create your applications with Vite before following the video tutorial.
+This is a simple chat application built with React, Context API, and Firebase. The app allows users to join chat rooms and exchange messages in real-time.
 
-[Create a React App with Vite](https://github.com/safak/youtube23/tree/react-mini)
+## Features
+
+- **Real-time Messaging:** Messages are sent and received instantly using Firebase Firestore.
+- **User Authentication:** Google sign-in is implemented using Firebase Authentication.
+- **Context API:** React Context API is used for state management.
+
+## Tech Stack
+
+- **React:** JavaScript library for building user interfaces.
+- **Firebase:** Cloud-based platform for web and mobile app development.
+- **Context API:** State management solution for React applications.
+- **SCSS:** A preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets (CSS).
+
+![Chat App](./src/img/user1.png)
+![Chat User](./src/img/user2.png)
+![Login](./src/img/login.png)
+![Register](./src/img/register.png)
